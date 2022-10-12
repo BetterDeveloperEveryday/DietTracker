@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+
+        <item
+            android:title="@string/task_1"
+            android:id="@+id/firstActivity"
+            android:icon="@drawable/ic_plan">
+        </item>
+
+        <item
+            android:title="@string/task_2"
+            android:id="@+id/secondActivity"
+            android:icon="@drawable/ic_track">
+        </item>
+
+        <item
+            android:title="@string/task_3"
+            android:id="@+id/thirdActivity"
+            android:icon="@drawable/ic_summary">
+        </item>
+
+        <item
+            android:title="@string/task_4"
+            android:id="@+id/fourthActivity"
+            android:icon="@drawable/ic_information">
+        </item>
+
+    </group>
+</menu>
